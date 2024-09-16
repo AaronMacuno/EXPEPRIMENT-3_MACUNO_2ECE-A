@@ -10,7 +10,7 @@
 
  Download the provided .csv file to be utilized in both problems
 
-**Problem 1**
+## **Problem 1**
 
  Load the recently downloaded .csv file in the dataframe with the variable name 'cars' using pandas
  ![image](https://github.com/user-attachments/assets/0cc92454-cb20-49fa-90b8-6074fb37e18e)
