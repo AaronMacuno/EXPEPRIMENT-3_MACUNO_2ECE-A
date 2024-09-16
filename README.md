@@ -7,6 +7,7 @@
      Pandas library
   
 **II. Instructions:**
+
  Download the provided csv file to be utilized in both problems
 
 **Problem 1**
